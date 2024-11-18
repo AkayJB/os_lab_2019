@@ -26,7 +26,7 @@ int main(int argc, char **argv) {
    *  TODO:
    *  threads_num by command line arguments
    *  array_size by command line arguments
-   *	seed by command line arguments
+   *  seed by command line arguments
    */
 
   uint32_t threads_num = 0;
